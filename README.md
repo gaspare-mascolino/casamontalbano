@@ -22,3 +22,7 @@
   Host: https://casamontalbano.eu/adminmontalbano
   User: antonio.giudice23.24@gmail.com
   Psw: Nuovisegni2024!
+
+- STRIPE
+  User:ecommercecasamontalbano@gmail.com
+  Psw: mntsrg@12345
